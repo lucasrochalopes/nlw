@@ -4,8 +4,8 @@
 
 <p align="center">
   <a href="#Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Layout">Layout</a>&nbsp;&nbsp;&nbsp;
+  <a href="#Project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#Layout">Layout</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
   <img alt="Ecoleta" src=".github/ecoleta.png" width="100%">
 </p>
 
-## Tecnologies
+## Technologies
 
 Technologies used in Ecoleta app:
 
@@ -35,4 +35,4 @@ Ecoleta is a marketplace that helps people find waste collection points efficien
 
 ## Layout
 
-You can view the project layout in the format via [desse link](https://www.figma.com/file/9TlOcj6l7D05fZhU12xWT3/Ecoleta-Booster?node-id=0%3A1). To view you need to have an account on [Figma](http://figma.com/).
+You can view the project layout [here](https://www.figma.com/file/9TlOcj6l7D05fZhU12xWT3/Ecoleta-Booster?node-id=0%3A1). To view you need to have an account on [Figma](http://figma.com/).
