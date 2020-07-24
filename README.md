@@ -20,7 +20,7 @@
   <img alt="Ecoleta" src=".github/ecoleta.png" width="100%">
 </p>
 
-## Tecnologies
+## Technologies
 
 Technologies used in Ecoleta app:
 
